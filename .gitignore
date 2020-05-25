@@ -1,0 +1,90 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Application as a class/out/
+/Problems/Application as a class/out/production/classes/
+/Problems/Arithmetic expression/out/
+/Problems/Arithmetic expression/out/production/classes/
+/Problems/Between two numbers/out/
+/Problems/Between two numbers/out/production/classes/
+/Problems/Boys in the sport class/out/
+/Problems/Boys in the sport class/out/production/classes/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Compare Latin letters/out/
+/Problems/Compare Latin letters/out/production/classes/
+/Problems/Comparing sums/out/
+/Problems/Comparing sums/out/production/classes/
+/Problems/Cutting the fraction/out/
+/Problems/Cutting the fraction/out/production/classes/
+/Problems/Difference of times/out/
+/Problems/Difference of times/out/production/classes/
+/Problems/First, second, third/build/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Four numbers/out/
+/Problems/Four numbers/out/production/classes/
+/Problems/From string to a number/out/
+/Problems/From string to a number/out/production/classes/
+/Problems/From 0 to 9/build/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Good rest on vacation/out/
+/Problems/Good rest on vacation/out/production/classes/
+/Problems/Grades/out/
+/Problems/Grades/out/production/classes/
+/Problems/Groundhogs at the party/out/
+/Problems/Groundhogs at the party/out/production/classes/
+/Problems/Healthy sleep/out/
+/Problems/Healthy sleep/out/production/classes/
+/Problems/Hello, Kotlin/build/
+/Problems/I like Kotlin/build/
+/Problems/Is between/out/
+/Problems/Is between/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Next even number/out/
+/Problems/Next even number/out/production/classes/
+/Problems/Number dividers/out/
+/Problems/Number dividers/out/production/classes/
+/Problems/Printing each word in a new line/out/
+/Problems/Printing each word in a new line/out/production/classes/
+/Problems/Read and print/out/
+/Problems/Read and print/out/production/classes/
+/Problems/Sequence/out/
+/Problems/Sequence/out/production/classes/
+/Problems/Size, min and max/out/
+/Problems/Size, min and max/out/production/classes/
+/Problems/Size of parts/out/
+/Problems/Size of parts/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The eternal truth/build/
+/Problems/The first digit of a two-digit number/out/
+/Problems/The first digit of a two-digit number/out/production/classes/
+/Problems/The Hello World program/build/
+/Problems/The Hello World program/out/
+/Problems/The Hello World program/out/production/classes/
+/Problems/The largest element/out/
+/Problems/The largest element/out/production/classes/
+/Problems/The last digit of a number/out/
+/Problems/The last digit of a number/out/production/classes/
+/Problems/The number of tens/out/
+/Problems/The number of tens/out/production/classes/
+/Problems/The rainbow order/out/
+/Problems/The rainbow order/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/build/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Problems/We need to learn Kotlin/out/
+/Problems/We need to learn Kotlin/out/production/classes/
